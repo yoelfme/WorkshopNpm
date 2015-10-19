@@ -1,6 +1,6 @@
 {
   "name": "@yoelfme/npm_package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My first package",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,5 @@
   },
   "homepage": "https://github.com/yoelfme/WorkshopNpm#readme",
   "dependencies": {
-    "@linclark/pkg": "^1.0.2"
   }
 }
